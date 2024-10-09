@@ -29,7 +29,7 @@ function App() {
   
   return (
  
-      <Router basename="/">
+      <Router basename="/Pudupedia">
         <Header />
         <NewNavbar />
         <Routes>
