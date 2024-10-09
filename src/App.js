@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NewNavbar from './Components/LandingPage/Navbar/NewNavbar';
 import LandingPage from './Components/LandingPage/LandingPage';
 import GamePage from './Components/GamePage/GamePage';
@@ -29,7 +29,7 @@ function App() {
   
   return (
  
-      <Router>
+      <Router basename="">
         <Header />
         <NewNavbar />
         <Routes>
