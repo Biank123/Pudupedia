@@ -29,7 +29,7 @@ function App() {
   
   return (
  
-      <Router basename="/Pupupedia">
+      <Router>
         <Header />
         <NewNavbar />
         <Routes>
