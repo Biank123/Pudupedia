@@ -29,7 +29,7 @@ function App() {
   
   return (
  
-      <Router>
+      <Router basename="/">
         <Header />
         <NewNavbar />
         <Routes>

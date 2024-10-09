@@ -65,7 +65,6 @@ const Item = ({ src, url, level }) => {
     const className = `item level${level}`;
     return (
         <div className={className}>
-           
             <Link to={url}>
                 <img src={src} alt={`Item ${level}`} />
             </Link>
