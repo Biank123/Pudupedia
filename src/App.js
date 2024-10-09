@@ -33,7 +33,7 @@ function App() {
         <Header />
         <NewNavbar />
         <Routes>
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/Pupupedia" element={<LandingPage />} />
           <Route path="/juegos" element={<GamePage />} />
           <Route path="/trivia" element={<TriviaGame />} />
           <Route path="/vida-silvestre" element={<Bubbles />} />
