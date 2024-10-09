@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pupupedia/static/css/main.c806650a.css",
-    "main.js": "/Pupupedia/static/js/main.9b4f28ff.js",
+    "main.js": "/Pupupedia/static/js/main.63127915.js",
     "static/js/453.72be8b70.chunk.js": "/Pupupedia/static/js/453.72be8b70.chunk.js",
     "static/media/hierba.jpg": "/Pupupedia/static/media/hierba.617817f2119bb3a7bd3b.jpg",
     "static/media/pudu.jpg": "/Pupupedia/static/media/pudu.0d3c17d9bca8affd4140.jpg",
@@ -50,11 +50,11 @@
     "static/media/selectChoiceTrivia.mp3": "/Pupupedia/static/media/selectChoiceTrivia.2944938830ac5d97fe17.mp3",
     "index.html": "/Pupupedia/index.html",
     "main.c806650a.css.map": "/Pupupedia/static/css/main.c806650a.css.map",
-    "main.9b4f28ff.js.map": "/Pupupedia/static/js/main.9b4f28ff.js.map",
+    "main.63127915.js.map": "/Pupupedia/static/js/main.63127915.js.map",
     "453.72be8b70.chunk.js.map": "/Pupupedia/static/js/453.72be8b70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c806650a.css",
-    "static/js/main.9b4f28ff.js"
+    "static/js/main.63127915.js"
   ]
 }
