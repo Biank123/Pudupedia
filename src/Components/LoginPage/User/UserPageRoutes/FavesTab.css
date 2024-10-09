@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.fullPage5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 100px;
+  margin-left: 250px;
+  width: 1000px;
+  height: 600px;
+  border-radius: 10px;
+  backdrop-filter: blur(5px);
+ 
+}
+
+.formContainer2 {
+  margin-top: 10vh;
+  margin-left: -87vh;
+  background-color: rgba(168, 196, 189, 0.914);
+  border-radius: 10px;
+  padding: 5vh;
+  
+}
+
+.formContainer2 button{
+  margin-top: -5vh;
+  width: 50vh;
+  margin-left: 10vh;
+}
+
+.addButton{
+  background-color: rgb(8, 198, 198);
+  border-radius: 10px;
+  padding: 8px;
+  margin: 1vw;
+  margin-left: 5vh;
+  margin-top: -10vh;
+}
