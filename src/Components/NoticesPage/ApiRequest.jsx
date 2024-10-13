@@ -99,7 +99,7 @@ const Notices = () => {
           <ul>
             {filteredArticles.map((article, index) => (
               <li key={index} className="noticia-item">
-                <img src={article.urlToImage} alt={article.title} className="noticia-imagen" />
+                <img src={article.urlToImage} alt={article.title || 'Imagen relacionada con la noticia'} title={article.title || 'Imagen relacionada con la noticia'} className="noticia-imagen" />
                 <div className="noticia-contenido">
                     <a href={`/chile/${encodeURIComponent(article.title)}`} target="_blank" rel="noopener noreferrer">
                   {article.title}
