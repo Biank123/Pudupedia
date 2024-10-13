@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pudupedia/static/css/main.c8c89de8.css",
-    "main.js": "/Pudupedia/static/js/main.b21c792b.js",
+    "main.js": "/Pudupedia/static/js/main.de7a98d6.js",
     "static/js/453.72be8b70.chunk.js": "/Pudupedia/static/js/453.72be8b70.chunk.js",
     "static/media/hierba.jpg": "/Pudupedia/static/media/hierba.617817f2119bb3a7bd3b.jpg",
     "static/media/pudu.jpg": "/Pudupedia/static/media/pudu.0d3c17d9bca8affd4140.jpg",
@@ -50,11 +50,11 @@
     "static/media/selectChoiceTrivia.mp3": "/Pudupedia/static/media/selectChoiceTrivia.2944938830ac5d97fe17.mp3",
     "index.html": "/Pudupedia/index.html",
     "main.c8c89de8.css.map": "/Pudupedia/static/css/main.c8c89de8.css.map",
-    "main.b21c792b.js.map": "/Pudupedia/static/js/main.b21c792b.js.map",
+    "main.de7a98d6.js.map": "/Pudupedia/static/js/main.de7a98d6.js.map",
     "453.72be8b70.chunk.js.map": "/Pudupedia/static/js/453.72be8b70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8c89de8.css",
-    "static/js/main.b21c792b.js"
+    "static/js/main.de7a98d6.js"
   ]
 }
