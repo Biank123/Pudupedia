@@ -12,7 +12,7 @@ const Notices = () => {
       const fetchNews = async () => {
         try {
           const response = await fetch(
-             `https://newsapi.org/v2/everything?q=Chile+AND+(biodiversidad+AND+(conservación+OR+naturaleza+OR+sostenibilidad+OR+endémico+OR+ecosistema+OR+animal))&language=es&apiKey=bab7d79d5d54488da5f9691f8e7ca36b`
+             `https://newsapi.org/v2/everything?q=Chile&language=es&apiKey=bab7d79d5d54488da5f9691f8e7ca36b`
           );
           
           if (response.ok){
