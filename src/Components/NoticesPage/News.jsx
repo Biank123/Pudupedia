@@ -58,7 +58,7 @@ export default function News() {
                 </div>
                 <div className="externalContainer">
                     <div className='imgDateAuth'>
-                        <img src={selectedArticle.urlToImage} className='image' alt="" />
+                        <img src={selectedArticle.urlToImage} className='image' alt="articulo seleccionado" />
                         <div className='img-bottom'>
                             <div className='author-date'>
                                 <time dateTime={selectedArticle.publishedAt} className='date'>
